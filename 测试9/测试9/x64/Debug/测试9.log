@@ -1,0 +1,3 @@
+﻿  测试9.cpp
+D:\c语言\测试9\测试9.cpp(111,15): warning C4244: “return”: 从“WPARAM”转换到“int”，可能丢失数据
+  测试9.vcxproj -> D:\c语言\测试9\x64\Debug\测试9.exe
